@@ -18,7 +18,7 @@ This project evaluates **encoder-decoder models** (`mlongT5` and `parsT5`) for s
 |-------------|---------|---------|---------|--------------| 
 | **mlongT5** | 0.75    | 0.58    | 0.72    | 0.82         |   
 | **parsT5**  | 0.78    | 0.61    | 0.74    | 0.85         |  
-| **PersianLlaMA-13B**  | 0.78    | 0.61    | 0.74  | 0.85  | 
+| **[PersianLlaMA-13B](https://huggingface.co/ViraIntelligentDataMining/PersianLLaMA-13B)**  | 0.78    | 0.61    | 0.74  | 0.85  | 
 | **AVA Llama_3_V2**  | 0.78    | 0.61    | 0.74    | 0.85      |
 
 *`parsT5` (Persian-optimized) slightly outperformed `mlongT5` across all metrics.*  
