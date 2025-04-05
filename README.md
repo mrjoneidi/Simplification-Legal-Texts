@@ -21,7 +21,12 @@ This project evaluates **encoder-decoder models** (`mlongT5` and `parsT5`) for s
 | **[AVA Llama_3_V2](https://huggingface.co/MehdiHosseiniMoghadam/AVA-Llama-3-V2)**  | 30.07%   | 10.33%    | 16.39%    | 70.87%      |
 
 ---
+🌐 Model Hosted on Hugging Face
+You can access and use this model directly via the Hugging Face Hub:
 
+Link: https://huggingface.co/Moryjj/FineTuned-parsT5-Simplification
+
+---
 ## 🛠️ Technologies  
 ### Models & Training  
 - **Models**: `mlongT5` (12-block), `parsT5` (12-block), `Unlimiformer` (long-context).  
