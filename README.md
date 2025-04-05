@@ -42,9 +42,15 @@ This project evaluates **encoder-decoder models** (`mlongT5` and `parsT5`) for s
 ---
 
 
-### Dataset  
+## Dataset  
 - **5,000+ Persian legal texts** (decision texts, dates)  
 - **Split**: 85% train, 5% validation, 10% test.  
 - **Preprocessing**: Scraping, manual labeling for simplification.  
 
 ---
+
+## Contact
+For questions, collaborations, or access to the full dataset, feel free to reach out:
+
+📧 Email: your-email@example.com
+🔗 LinkedIn: Mohammadreza Joneidi Jafari
