@@ -58,4 +58,6 @@ Link: https://huggingface.co/Moryjj/FineTuned-parsT5-Simplification
 For questions, collaborations, or access to the full dataset, feel free to reach out:
 
 📧 Email: your-email@example.com
+
+
 🔗 LinkedIn: Mohammadreza Joneidi Jafari
