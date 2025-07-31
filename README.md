@@ -50,7 +50,7 @@ Link: [simplification-legal-text](https://huggingface.co/Moryjj/simplification-l
 
 
 ## Dataset  
-- **5,000+ Persian legal texts** (decision texts, dates)  
+- **16,000+ Persian legal texts** (decision texts, dates)  
 - **Split**: 85% train, 5% validation, 10% test.  
 - **Preprocessing**: Scraping, manual labeling for simplification.  
 
